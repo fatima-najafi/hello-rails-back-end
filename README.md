@@ -4,7 +4,7 @@
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <br/>
 
-  <h3><b> Hello-react-rails</b></h3>
+  <h3><b>HELLO-RAILS-BACK-END</b></h3>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -30,9 +30,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Rails React] <a name="about-project"></a>
+# 📖 [HELLO RAILS BACK_END] <a name="about-project"></a>
 
-**[Hello Rails React]** is a template demonstration with a simple API, on how to write a Full-Stack Web application with Frontend React JS and Redux and Backend with Ruby on Rails.
+**[HELLO RAILS BACK_END]** is a template demonstration with a simple API, on how to write a Full-Stack Web application with Frontend React JS and Redux and Backend with Ruby on Rails.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -77,7 +77,7 @@ To get a local copy up and running follow these simple example steps.
   - Navigate to where you want to paste the Repo folder;
   - Run the following commands
 ```
-git clone https://github.com/fatima-najafi/hello-rails-react.git
+git clone https://github.com/fatima-najafi/hello-rails-back-end.git
 cd Hello-Rails-React
 ```
 
