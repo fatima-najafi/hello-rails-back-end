@@ -1,6 +1,5 @@
-# frozen_string_literal: true
-
 module Api
+  # Controller responsible for handling greetings in the API.
   class GreetingsController < ApplicationController
     def random
       @greeting = Message.order('RANDOM()').first
