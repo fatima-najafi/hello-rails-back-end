@@ -58,9 +58,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO RAILS FRONT_END] <a name="about-project"></a>
+# 📖 [HELLO RAILS BACK_END] <a name="about-project"></a>
 
-**[HELLO RAILS FRONT_END]** Hello Rails Backend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/fatima-najafi/hello-react-front-end
+**[HELLO RAILS BACK_END]** Hello Rails Backend app is a test project on implementing a Ruby on Rails back-end to serve an API for a separate React front-end. Here is the repository for the front-end: https://github.com/fatima-najafi/hello-react-front-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
